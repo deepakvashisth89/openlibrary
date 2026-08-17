@@ -1,0 +1,1 @@
+Introduces the philosophy of experimentation and the part that statistics play in experimentation. Emphasizes the need to develop a capability for "statistical thinking" by using examples drawn from actual case studies.

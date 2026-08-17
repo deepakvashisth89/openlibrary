@@ -1,0 +1,47 @@
+Contains (order varies by edition):
+
+Novels:
+Blithedale Romance
+Fanshawe
+House of the Seven Gables
+Marble Faun
+Scarlet Letter
+
+From Twice-Told Tales:
+Ambitious Guest
+David Swan
+[Dr. Heidegger's Experiment](https://openlibrary.org/works/OL455515W)
+Endicott and the Red Cross
+Gentle Boy
+Gray Champion
+Great Carbuncle
+Hollow of the Three Hills
+Legends of the Province House
+May-Pole of Merry Mount
+[Minister's Black Veil](https://openlibrary.org/works/OL455342W)
+Mr. Higginbotham's Catastrophe
+Peter Goldthwaite's Treasure
+Shaker Bridal
+Wakefield
+Wedding Knell
+
+From [Mosses from an Old Manse](https://openlibrary.org/works/OL455350W):
+Artist of the Beautiful
+[Birth-Mark](https://openlibrary.org/works/OL455204W)
+Celestial Railroad
+Drowne's Wooden Image
+Egotism ; Or, the Bosom Serpent
+Feathertop : a Moralized Legend
+Mrs. Bullfrog
+Procession of Life
+[Rappaccini's Daughter](https://openlibrary.org/works/OL455378W)
+Roger Malvin's Burial
+[Young Goodman Brown](https://openlibrary.org/works/OL455569W/Young_Goodman_Brown)
+
+From Snow Image:
+Canterbury Pilgrims
+Devil in Manuscript
+Ethan Brand
+Great Stone Face
+My Kinsman, Major Molineux
+Snow Image : a Childish Miracle

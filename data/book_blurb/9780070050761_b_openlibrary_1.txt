@@ -1,0 +1,5 @@
+With new coverage of middleware, Windows 95, and Windows NT - not to mention the hot areas of massively parallel processing, data warehousing, OLAP, and data mining - industry expert Alex Berson updates his authoritative guide to the distributed computing environment. The Second Edition brings you up to speed on these and other swiftly changing areas in client/server architecture at a level that virtually guarantees you'll speed system implementation and improve performance.
+
+Client/Server Architecture, Second Edition, covers components, open systems, specialization in both client and server, and second-generation, multi-tiered implementations of client/server systems. This updated edition also provides a management view of costs and risks in implementing client/server systems. Berson clarifies the issues of distributed objects, data warehousing, on-line analytical processing, data mining, high performance commercial computing, and client/server application development.
+
+In addition to discussing data distribution between heterogeneous databases, he illustrates data replication by examining the popular implementations offered by major vendors.

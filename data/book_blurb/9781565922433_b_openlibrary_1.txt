@@ -1,0 +1,1 @@
+The Perl Cookbook is a collection of problems, solutions, and practical examples for anyone using the Perl programming language.  The examples range in complexity from brief one-liners to complete applications.  The publisher represents it as a companion volume to "Programming Perl", also by Christiansen. Forward by Larry Wall.  733 pages.  Paperback.

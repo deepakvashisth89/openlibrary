@@ -1,0 +1,21 @@
+Contains:
+
+Isaac Asimov:
+Foundation 
+Foundation and Empire 
+Second Foundation
+The Stars Like Dust
+The Naked Sun
+I, Robot
+
+Stephen King:
+[The Shining](https://openlibrary.org/works/OL81633W)
+[Night Shift](https://openlibrary.org/works/OL81608W)
+[Carrie](https://openlibrary.org/works/OL81626W)
+'Salem's Lot
+
+Robert Ludlum:
+The Scarlatti Inheritance
+The Osterman Weekend
+The Matlock Paper
+The Gemeni Contenders

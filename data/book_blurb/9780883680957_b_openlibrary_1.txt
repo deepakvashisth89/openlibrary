@@ -1,0 +1,4 @@
+"Acts and monuments of matters most special and memorable, happening in the church with an universal history of the same. Wherein is set forth at large, the whole race and course of the church, from the primitive age to these later times of ours, with the bloody times, horrible troubled, and great persecutions against the true martyrs of Christ ... Whereunto are annexed certain additions of like persecutions which have happened in these later times. To which also is added the life of the author both in Latine and English." (Taken from the [MARC record][1].)
+
+
+  [1]: http://upstream.openlibrary.org/show-marc/talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:2782072066:1297

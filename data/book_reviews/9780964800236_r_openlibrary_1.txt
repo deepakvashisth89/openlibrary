@@ -1,0 +1,1 @@
+No individual user reviews are available via the Open Library API for this ISBN. Open Library does not expose per-user review text through any public endpoint.

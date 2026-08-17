@@ -1,0 +1,11 @@
+Contains:
+
+ - [Carrie][4]
+ - [Night Shift][3]
+ - ['Salem's Lot][2]
+ - [Shining][1]
+
+  [1]: https://openlibrary.org/works/OL81633W
+  [2]: https://openlibrary.org/works/OL81632W
+  [3]: https://openlibrary.org/works/OL81608W
+  [4]: https://openlibrary.org/works/OL81626W/Carrie

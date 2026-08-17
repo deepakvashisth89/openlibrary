@@ -1,0 +1,4 @@
+<h2>Printing History</h2>
+<dl>
+<dt>April 1997</dt><dd>First Edition.</dd> 
+</dl>

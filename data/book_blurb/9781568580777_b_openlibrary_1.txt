@@ -1,0 +1,9 @@
+In 1995, a Princeton-based mathematician showed up at a scientific conference and dropped a bombshell. He had succeeded in deciphering one of mathematics' great secrets, one that thousands had puzzled over for the last three-and-a-half centuries: he had proven Fermat's Last Theorem in a 200-page paper, one that took seven years to write (and another year to fine tune).
+
+Fermat's Last Theorem is the previously untold story of the people, the history, and the cultures that lie behind this scientific triumph.
+
+Written by a seventeenth-century French scholar, the deceptively simple-sounding theorem states that while the square of a whole number can be broken down into two other squares of whole numbers - for example, five squared (25) equals four squared (16) plus three squared (nine) - the same cannot be done with cubes or any higher powers. After Fermat's death, many spent lifetimes trying to prove the theorem.
+
+The theorem has ancient roots. Around 2000 B.C., the Babylonians sought a way to break down a squared number into a sum of two squares. In the sixth century B.C., the Greek mathematician Pythagoras incorporated this concept into his own famous theorem, paving the way for Fermat.
+
+Centuries after Fermat, in 1955, two Japanese mathematicians made a far-reaching, almost fantastic conjecture about a possible relation between two disparate branches of mathematics. It was their work that enabled Princeton researcher Andrew Wiles, forty years later, to piece together the logic necessary to prove Fermat's Last Theorem. Fermat's Last Theorem combines philosophy and hard science with investigative journalism to make for a real-life detective story of the intellect.

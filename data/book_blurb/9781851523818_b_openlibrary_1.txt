@@ -1,0 +1,48 @@
+43 works:
+
+PLAYS (37)
+All's Well That Ends Well
+Antony and Cleopatra
+As You Like It
+Comedy of Errors
+Coriolanus
+Cymbeline
+[Hamlet](https://openlibrary.org/works/OL15203981W/Hamlet)
+Julius Caesar
+King Henry IV. Part 1
+King Henry IV. Part 1
+King Henry V
+King Henry VI. Part 1
+King Henry VI. Part 2
+King Henry VI. Part 3
+King Henry VIII
+King John
+King Lear
+King Richard II
+King Richard III
+Love's Labour's Lost
+Macbeth
+Measure for Measure
+Merchant of Venice
+Merry Wives of Windsor
+Midsummer Night's Dream
+[Much Ado About Nothing](https://openlibrary.org/works/OL362691W/Much_Ado_About_Nothing)
+Othello
+Pericles
+[Romeo and Juliet](https://openlibrary.org/works/OL362705W/Romeo_and_Juliet)
+Taming of the Shrew
+[Tempest](https://openlibrary.org/works/OL362699W/Tempest)
+Timon of Athens
+Titus Andronicus
+Troilus and Cressida
+Twelfth Night
+Two Gentlemen of Verona
+Winter's Tale
+
+POEMS (6)
+Lover's Complaint
+Passionate Pilgrim
+Phoenix and the Turtle
+Rape of Lucrece
+Sonnets
+Venus and Adonis

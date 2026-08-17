@@ -1,0 +1,3 @@
+"Attacks on government web sites, break-ins at Internet service providers, electronic credit card fraud, invasion of personal privacy by merchants as well as hackers - is this what the World Wide Web is really all about?".
+
+"Web Security & Commerce cuts through the hype and the front page stories. It tells you what the real risks are and explains how you can minimize them. Whether you're a casual (but concerned) web surfer or a system administrator responsible for the security of a critical web server, this book will tell you what you need to know. Entertaining as well as illuminating, it looks behind the headlines at the technologies, risks, and benefits of the Web."--BOOK JACKET.

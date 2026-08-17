@@ -1,0 +1,9 @@
+A very real little girl named Alice follows a remarkable rabbit down a rabbit hole and steps through a looking-glass to come face to face with some of the strangest adventures and some of the oddest characters in all literature. The crusty Duchess, the Mad Hatter, the weeping Mock Turtle, the diabolical Queen of Hearts, the Cheshire-Cat, Tweedledum and Tweedledee--each one is more eccentric, and more entertaining, than the last. And all of them could only have come from the pen of Lewis Carroll, one of the few adults ever to enter successfully the children's world of make-believe--a wonderland where the impossible becomes possible, the unreal, real...where the heights of adventure are limited only by the depths of imagination.
+--back cover
+
+Contains:
+
+ - [Alice's Adventures in Wonderland](https://openlibrary.org/works/OL8193508W)
+ - [Through the Looking Glass, and What Alice Found There][2]
+
+  [2]: https://openlibrary.org/works/OL15298516W

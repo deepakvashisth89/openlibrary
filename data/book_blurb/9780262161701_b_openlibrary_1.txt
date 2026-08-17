@@ -1,0 +1,1 @@
+According to Rosalind Picard, if we want computers to be genuinely intelligent and to interact naturally with us, we must give computers the ability to recognize, understand, even to have and express emotions. Part 1 of this book provides the intellectual framework for affective computing. Part 2 discusses the design and construction of affective computers.

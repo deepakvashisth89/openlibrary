@@ -1,0 +1,5 @@
+In its first edition, this groundbreaking book was credited with helping to define the science of software measurement, which is today accepted as the best method of ensuring productivity and quality control. The use of function point metrics in particular, discussed at length in the original edition, has grown enormously in the United States as well as other countries.
+
+But, in the five years since Applied Software Measurement became a must-read in the literature of information systems, a host of new technologies, methods, and paradigms have made the subject of metrics - and its applications - considerably more challenging and complex.
+
+Now this substantial revision of Capers Jones' classic work sheds light on the massive changes in software measurement that have been occasioned by these many technical advances, and also by such major contemporary trends as outsourcing and business process reengineering.

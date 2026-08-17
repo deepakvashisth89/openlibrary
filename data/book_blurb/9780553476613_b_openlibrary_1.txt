@@ -1,0 +1,10 @@
+Contains:
+
+ - The Lawnmower Man
+ - The Mangler
+ - [Quitters, Inc.][1]
+ - The Ledge
+ - Sometimes They Come Back
+
+
+  [1]: https://openlibrary.org/works/OL149153W/Quitters_Inc

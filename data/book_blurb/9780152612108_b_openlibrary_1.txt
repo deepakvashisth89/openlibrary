@@ -1,0 +1,1 @@
+Fifteen word-play riddles based on the concept of finding words within other words, such as "pet" in "trumpet" and "ten" in "kitten."

@@ -1,0 +1,1 @@
+Traces the history of chess, describes the pieces and how they move, and discusses the strategy of the game.

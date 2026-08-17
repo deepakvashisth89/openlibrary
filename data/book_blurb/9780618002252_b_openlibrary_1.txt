@@ -1,0 +1,6 @@
+Contains:
+
+- [Hobbit](https://openlibrary.org/works/OL262758W)
+- [The Fellowship of the Ring](https://openlibrary.org/works/OL15331214W/The_Fellowship_of_the_Ring)
+- [The Two Towers](https://openlibrary.org/works/OL262757W/The_Two_Towers)
+- [The Return of the King](https://openlibrary.org/works/OL27516W/The_Return_of_the_King)

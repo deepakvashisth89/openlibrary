@@ -1,0 +1,5 @@
+Contains:
+Christmas Carol
+Great Expectations
+Hard Times
+[Tale of Two Cities](https://openlibrary.org/works/OL8721465W/A_Tale_of_Two_Cities)

@@ -1,0 +1,22 @@
+JavaScript is a powerful, object-based scripting language; JavaScript programs can be embedded directly into HTML web pages. When combined with the Document Object Model (DOM) defined by a web browser, JavaScript allows you to create Dynamic HTML (DHTML) content and interactive client-side web applications. JavaScript syntax is based on the popular programming languages C, C++, and Java, which makes it familiar and easy to learn for experienced programmers. At the same time, JavaScript is an interpreted scripting language, providing a flexible, forgiving environment in which new programmers can learn.
+
+*JavaScript: The Definitive Guide* provides a thorough description of the core JavaScript language and both the legacy and standard DOMs implemented in web browsers. The book includes sophisticated examples that show you how to handle common tasks such as validating form data, working with cookies, and creating portable DHTML animations. The book also contains detailed reference sections that cover the core JavaScript API, the legacy client-side API, and the W3C standard DOM API, documenting every JavaScript object, method, property, constructor, constant, function, and event handler in those APIs.
+
+This fourth edition of the bestselling JavaScript book has been carefully updated to cover JavaScript 1.5 (ECMAScript Version 3). The book also provides complete coverage of the W3C DOM standard (Level 1 and Level 2), while retaining material on the legacy Level 0 DOM for backward compatibility.
+
+*JavaScript: The Definitive Guide* is a complete programmer's guide and reference manual for JavaScript. It is particularly useful for developers working with the latest standards-compliant web browsers, such as Internet Explorer 6, Netscape 6, and Mozilla. HTML authors can learn how to use JavaScript to build dynamic web pages. Experienced programmers can quickly find the information they need to start writing sophisticated JavaScript programs. This book is an indispensable reference for all JavaScript programmers, regardless of experience level.
+
+----------
+*Description from the Fourth Edition (2007, O'Reilly Media)*
+
+<h2>Printing History</h2>
+<dl> 
+<dt>August 1996</dt>
+<dd>Beta Edition.</dd>
+<dt>January 1997</dt>
+<dd>Second Edition.</dd> 
+<dt>June 1998</dt>
+<dd>Third Edition.</dd> 
+<dt>January 2002</dt>
+<dd>Fourth Edition.</dd> 
+</dl>

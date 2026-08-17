@@ -1,0 +1,7 @@
+A re-visitation of the imaginative future painted by Arthur C. Clarke in his previous two books [2001: A Space Odyssey][1] and [2010: Odyssey two][2]. 
+
+Two expeditions into space are inextricably tangled by human necessity and the immutable laws of physics. Heywood Floyd, survivor of two previous encounters with the mysterious monoliths must once again confront David Bowman - or whatever Bowman has become - a newly independent HAL, and the power of an alien race that has decided Humanity is to play a part in the Evolution of the Galaxy whether it wishes to or not.
+
+
+  [1]: http://openlibrary.org/works/OL17365W/2001
+  [2]: http://openlibrary.org/works/OL17413W/2010

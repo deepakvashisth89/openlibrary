@@ -1,0 +1,5 @@
+Contains:
+
+ - House of the Seven Gables
+ - Scarlet Letter
+ - Twice-Told Tales
